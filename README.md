@@ -22,10 +22,10 @@ Gmail SMTP를 활용하여 Spring Boot 환경에서
 
 <br>
 
-## 개발 환경
+## 기술 스택
 
-- Spring Boot 3.4.12
 - Java 17
+- Spring Boot 3.4.12
 - Thymeleaf
 
 <br>
